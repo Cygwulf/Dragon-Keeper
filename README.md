@@ -1,4 +1,4 @@
 # Dragon-Keeper
 Miniatures collection tracking app
 
-Right now this is a stub and I'm looking for collaborators to help with requirements and design.  Please see the issues tab and feel free to contribute to a conversation or start a new one.
+Right now we are very much in the information gathering phase.  I have my own ideas but I'm looking to see what other people want from a miniatures inventory tracking app too. Please see the issues tab and feel free to contribute to a conversation or start a new one.
